@@ -1,0 +1,21 @@
+.result-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 12px;
+  background: white;
+  border-radius: 10px;
+  overflow: hidden;
+  font-size: 14px;
+}
+
+.result-table th {
+  background: #f2f4f7;
+  padding: 10px;
+  text-align: left;
+  font-weight: 600;
+}
+
+.result-table td {
+  padding: 10px;
+  border-top: 1px solid #eee;
+}
